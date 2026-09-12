@@ -6,5 +6,5 @@ Browse GitHub gallery for product Forensics, App, rootkit etc code samples, anal
 .
 Note: this is meant for defensive research, education, and incident response. Any hands-on or ready-to-run tooling should only be used in legal, ethical contexts for legitimate collaboration or defensive testing.
 
-if you wanna full version repository send messages or reach out: erikanimade@gmail.com or endrielhanan@gmail.com
+*if you wanna full version repository send messages or reach out: erikanimade@gmail.com or endrielhanan@gmail.com*
 -->
